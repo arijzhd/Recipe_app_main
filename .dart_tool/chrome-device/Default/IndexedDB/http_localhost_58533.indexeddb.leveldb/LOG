@@ -1,0 +1,26 @@
+2024/05/02-03:44:34.002 8f8c Creating DB C:\Users\kamel\AppData\Local\Temp\flutter_tools.da5e1032\flutter_tools_chrome_device.2a54cf2a\Default\IndexedDB\http_localhost_58533.indexeddb.leveldb since it was missing.
+2024/05/02-03:44:34.006 8f8c Reusing MANIFEST C:\Users\kamel\AppData\Local\Temp\flutter_tools.da5e1032\flutter_tools_chrome_device.2a54cf2a\Default\IndexedDB\http_localhost_58533.indexeddb.leveldb/MANIFEST-000001
+2024/05/02-03:44:34.012 1740 Level-0 table #5: started
+2024/05/02-03:44:34.014 1740 Level-0 table #5: 1282 bytes OK
+2024/05/02-03:44:34.015 1740 Delete type=0 #3
+2024/05/02-03:44:34.015 8f8c Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/05/02-03:50:38.354 6a8c Level-0 table #7: started
+2024/05/02-03:50:38.356 6a8c Level-0 table #7: 4590 bytes OK
+2024/05/02-03:50:38.357 6a8c Delete type=0 #4
+2024/05/02-03:50:38.357 6a8c Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/05/02-03:51:18.360 6a8c Compacting 1@1 + 1@2 files
+2024/05/02-03:51:18.362 6a8c Generated table #8@1: 41 keys, 2957 bytes
+2024/05/02-03:51:18.362 6a8c Compacted 1@1 + 1@2 files => 2957 bytes
+2024/05/02-03:51:18.363 6a8c compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/05/02-03:51:18.364 6a8c Delete type=2 #5
+2024/05/02-03:51:18.364 6a8c Delete type=2 #7
+2024/05/02-03:52:24.122 1740 Level-0 table #10: started
+2024/05/02-03:52:24.124 1740 Level-0 table #10: 3295 bytes OK
+2024/05/02-03:52:24.125 1740 Delete type=0 #6
+2024/05/02-03:52:24.125 1740 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/05/02-03:53:02.533 6a8c Compacting 1@1 + 1@2 files
+2024/05/02-03:53:02.535 6a8c Generated table #11@1: 41 keys, 2959 bytes
+2024/05/02-03:53:02.535 6a8c Compacted 1@1 + 1@2 files => 2959 bytes
+2024/05/02-03:53:02.536 6a8c compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/05/02-03:53:02.537 6a8c Delete type=2 #8
+2024/05/02-03:53:02.537 6a8c Delete type=2 #10

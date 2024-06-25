@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "254932816215",
+    "firebase_url": "https://restautapp-e79df-default-rtdb.firebaseio.com",
+    "project_id": "restautapp-e79df",
+    "storage_bucket": "restautapp-e79df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254932816215:android:21f32368d751250f12ee12",
+        "android_client_info": {
+          "package_name": "com.example.cafe_restaut"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMqdKSGT0dOOQoGDfNx7ntz3V-M5smxyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

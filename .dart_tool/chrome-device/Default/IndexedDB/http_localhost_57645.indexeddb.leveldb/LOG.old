@@ -1,0 +1,27 @@
+2024/05/02-03:36:30.672 3c40 Creating DB C:\Users\kamel\AppData\Local\Temp\flutter_tools.847d1d5\flutter_tools_chrome_device.f6e0a53d\Default\IndexedDB\http_localhost_57645.indexeddb.leveldb since it was missing.
+2024/05/02-03:36:30.676 3c40 Reusing MANIFEST C:\Users\kamel\AppData\Local\Temp\flutter_tools.847d1d5\flutter_tools_chrome_device.f6e0a53d\Default\IndexedDB\http_localhost_57645.indexeddb.leveldb/MANIFEST-000001
+2024/05/02-03:36:30.681 8784 Level-0 table #5: started
+2024/05/02-03:36:30.683 8784 Level-0 table #5: 1282 bytes OK
+2024/05/02-03:36:30.684 8784 Delete type=0 #3
+2024/05/02-03:36:30.684 3c40 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/05/02-03:40:25.349 727c Level-0 table #7: started
+2024/05/02-03:40:25.351 727c Level-0 table #7: 4589 bytes OK
+2024/05/02-03:40:25.352 727c Delete type=0 #4
+2024/05/02-03:40:25.352 727c Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/05/02-03:40:49.023 8784 Level-0 table #9: started
+2024/05/02-03:40:49.025 8784 Level-0 table #9: 3295 bytes OK
+2024/05/02-03:40:49.026 8784 Delete type=0 #6
+2024/05/02-03:40:49.026 3c40 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at '\x00\x05\x00\x00\x05' @ 201 : 1
+2024/05/02-03:40:49.026 3c40 Compacting 1@0 + 1@1 files
+2024/05/02-03:40:49.027 3c40 Generated table #10@0: 70 keys, 3268 bytes
+2024/05/02-03:40:49.027 3c40 Compacted 1@0 + 1@1 files => 3268 bytes
+2024/05/02-03:40:49.028 3c40 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/05/02-03:40:49.028 3c40 Delete type=2 #9
+2024/05/02-03:40:49.029 3c40 Manual compaction at level-0 from '\x00\x05\x00\x00\x05' @ 201 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/05/02-03:41:29.041 727c Compacting 1@1 + 1@2 files
+2024/05/02-03:41:29.044 727c Generated table #11@1: 41 keys, 2954 bytes
+2024/05/02-03:41:29.044 727c Compacted 1@1 + 1@2 files => 2954 bytes
+2024/05/02-03:41:29.044 727c compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/05/02-03:41:29.045 727c Delete type=2 #5
+2024/05/02-03:41:29.045 727c Delete type=2 #7
+2024/05/02-03:41:29.045 727c Delete type=2 #10
